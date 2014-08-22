@@ -1,0 +1,37 @@
+AUS|Australia|Australie|1
+AUT|Austria|Autriche|2
+BEL|Belgium|Belgique|3
+CAN|Canada|Canada|4
+CHL|Chile|Chili|5
+CZE|Czech Republic|République tchèque|6
+DNK|Denmark|Danemark|7
+EST|Estonia|Estonie|8
+FIN|Finland|Finlande|9
+FRA|France|France|10
+DEU|Germany|Allemagne|11
+GRC|Greece|Grèce|12
+HUN|Hungary|Hongrie|13
+IRL|Ireland|Irlande|14
+ISL|Iceland|Islande|15
+ISR|Israel|Israël|16
+ITA|Italy|Italie|17
+JPN|Japan|Japon|18
+KOR|Korea|Corée|19
+LUX|Luxembourg|Luxembourg|20
+MEX|Mexico|Mexique|21
+NLD|Netherlands|Pays-Bas|22
+NZL|New Zealand|Nouvelle-Zélande|23
+NOR|Norway|Norvège|24
+POL|Poland|Pologne|25
+PRT|Portugal|Portugal|26
+SVK|Slovak Republic|République slovaque|27
+SVN|Slovenia|Slovénie|28
+ESP|Spain|Espagne|29
+SWE|Sweden|Suède|30
+CHE|Switzerland|Suisse|31
+TUR|Turkey|Turquie|32
+GBR|United Kingdom|Royaume-Uni|33
+USA|United States|Etats-Unis|34
+DEW|West Germany|Allemagne de l'Ouest|35
+RUS|Russian Federation|Fédération Russie|36
+BRA|Brazil|Brésil|37
